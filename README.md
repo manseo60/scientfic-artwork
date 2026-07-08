@@ -32,7 +32,7 @@ Visualizing the transition from current PSC-derived models toward future mature 
 
 🎬 Watch:
 
-[Intestinal Organoid Lenticular Artwork](./Intest.mp4)
+<video src="Intest.mp4" controls width="600"></video>
 
 
 ---
